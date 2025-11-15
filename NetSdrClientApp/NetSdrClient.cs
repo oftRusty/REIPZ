@@ -167,5 +167,4 @@ private void _udpClient_MessageReceived(object? sender, byte[] e)
             Console.WriteLine("Response recieved: " + e.Select(b => Convert.ToString(b, toBase: 16)).Aggregate((l, r) => $"{l} {r}"));
         }
     }
-}
- 
+} 
