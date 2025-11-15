@@ -116,4 +116,4 @@ namespace NetSdrClientAppTests
             act.Should().NotThrow();
         }
     }
-}
+} 
