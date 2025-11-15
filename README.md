@@ -1,4 +1,5 @@
 # Лабораторні з реінжинірингу (8×)
+ДО
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
@@ -7,7 +8,15 @@
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-
+ПІСЛЯ
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=coverage)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=bugs)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oftRusty_REIPZ&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oftRusty_REIPZ)
 
 Цей репозиторій використовується для курсу **реінжиніринг ПЗ**. 
 Мета — провести комплексний реінжиніринг спадкового коду NetSdrClient, включаючи рефакторинг архітектури, покращення якості коду, впровадження сучасних практик розробки та автоматизацію процесів контролю якості через CI/CD пайплайни.
