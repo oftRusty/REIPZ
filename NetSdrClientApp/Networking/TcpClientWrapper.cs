@@ -83,7 +83,7 @@ namespace NetSdrClientApp.Networking
                 throw new InvalidOperationException("Not connected to a server.");
             }
         }
-
+ 
         public async Task SendMessageAsync(string str)
         {
             var data = Encoding.UTF8.GetBytes(str);
